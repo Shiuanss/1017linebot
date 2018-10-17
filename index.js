@@ -28,7 +28,7 @@ bot.on('message', function(event) {
             "altText": "This is a buttons template",
             "template": {
                 "type": "buttons",
-                "thumbnailImageUrl": "https://example.com/bot/images/image.jpg",
+                "thumbnailImageUrl": "https://bt21.herokuapp.com/imgs/a.jpg",
                 "imageAspectRatio": "rectangle",
                 "imageSize": "cover",
                 "imageBackgroundColor": "#FFFFFF",
